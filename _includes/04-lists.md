@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- photonics CAD (layout, simulation, data analysis)
+- python
+- system adminstration
