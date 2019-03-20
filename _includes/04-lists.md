@@ -1,0 +1,3 @@
+- photonics CAD (layout, simulation, data analysis)
+- python
+- system adminstration
